@@ -21,14 +21,14 @@ Vulnerability #1: __________________
 
 Description:
 
-<img src="blue-vuln1.gif">!
+<img src="Blue-SQL-Injection.gif">
 
 
 Vulnerability #2: __________________
 
 Description:
 
-<img src="blue-vuln2.gif">
+<img src="Blue-Session-Hijacking.gif">
 
 ## Green
 
@@ -36,13 +36,13 @@ Vulnerability #1: __________________
 
 Description:
 
-<img src="green-vuln1.gif">
+<img src="Green-User-Enumerat">
 
 Vulnerability #2: __________________
 
 Description:
 
-<img src="green-vuln2.gif">
+<img src="Green-XSS.gif">
 
 
 ## Red
@@ -51,12 +51,12 @@ Vulnerability #1: __________________
 
 Description:
 
-<img src="red-vuln1.gif">
+<img src="Red-IDOR.gif">
 
 Vulnerability #2: __________________
 
 Description:
-
+Was not Completed
 <img src="red-vuln2.gif">
 
 
