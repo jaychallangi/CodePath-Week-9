@@ -55,10 +55,6 @@ Description: By changing the id parameter, we can acces a profile that isn't sup
 
 <img src="Red-IDOR.gif">
 
-Vulnerability #2: Cross-Site Request Forgery
-
-Description:
-Was not Completed
 
 ## Notes
 
